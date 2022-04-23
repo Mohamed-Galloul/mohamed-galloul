@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Galloul</h1>
-<h3 align="center">Deep Learning/Computer Vision Enthusiast</h3>
+<h2 align="center">Deep Learning/Computer Vision Enthusiast 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+<p></p>
+  <p style="text-align:center;">
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-galloul&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-galloul" /> </p>
 
+  </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-galloul" alt="mohamed-galloul" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Galloul](https://github.com/Mohamed-Galloul)

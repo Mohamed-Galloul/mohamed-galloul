@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Galloul</h1>
-<h2 align="center">Deep Learning/Computer Vision Enthusiast 
+<h2 align="center">Data Scientist/Deep Learning Enthusiast 
 
   
 <p></p>

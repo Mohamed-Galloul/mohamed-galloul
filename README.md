@@ -1,21 +1,4 @@
-  <style>
-    /* Optional: Remove body margin so the paragraph can truly go edge-to-edge */
-    body {
-      margin: 0;
-      padding: 0;
-    }
 
-    /* Style *only* the paragraph with this ID */
-    #fullWidthParagraph {
-      /* Remove default paragraph margin */
-      margin: 0;
-      /* Remove padding if you want it flush with the page edges */
-      padding: 0;
-      /* Optional: justify text to align both left and right edges */
-      text-align: justify;
-      /* By default, <p> is display: block, so it takes 100% width of its container */
-    }
-  </style>
 
 <h1 align="center">Hi 👋, I'm Mohamed Galloul</h1>
 <h2 align="center">Data Scientist/Machine Learning 
@@ -26,28 +9,24 @@
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-galloul&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-galloul" /> </p>
+
+
+<p style="margin: 0; padding: 0; text-align: justify;">
+  Mohamed is a results-focused Data Scientist and Machine Learning Engineer with 
+  hands-on experience transforming challenging research concepts into production-ready 
+  models. He excels at leveraging advanced AI methods—ranging from speech recognition 
+  and computer vision to NLP and generative models—to solve real-world problems. 
+  Mohamed has led multi-faceted research initiatives, using technologies like 
+  PyTorch/Lightning, Hugging Face Transformers, and Sci-kit Learn to build end-to-end 
+  models, reduce error rates, and improve performance metrics. With a track record of 
+  publishing at top conferences, mentoring diverse teams, and deploying robust systems 
+  in cloud environments, Mohamed brings a proven ability to deliver actionable insights 
+  that align with business or research objectives. His collaborative mindset, strong 
+  leadership skills, and passion for innovation make him a valuable contributor to any 
+  data-driven organization.
 </p>
-
-<p>
-
-
-  <p id="fullWidthParagraph">
-    Mohamed is a results-focused Data Scientist and Machine Learning Engineer with 
-    hands-on experience transforming challenging research concepts into production-ready 
-    models. He excels at leveraging advanced AI methods—ranging from speech recognition 
-    and computer vision to NLP and generative models—to solve real-world problems. 
-    Mohamed has led multi-faceted research initiatives, using technologies like 
-    PyTorch/Lightning, Hugging Face Transformers, and Sci-kit Learn to build end-to-end 
-    models, reduce error rates, and improve performance metrics. With a track record of 
-    publishing at top conferences, mentoring diverse teams, and deploying robust systems 
-    in cloud environments, Mohamed brings a proven ability to deliver actionable insights 
-    that align with business or research objectives. His collaborative mindset, strong 
-    leadership skills, and passion for innovation make him a valuable contributor to any 
-    data-driven organization.
-  </p>
 
   
-</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-galloul" alt="mohamed-galloul" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Galloul](https://github.com/Mohamed-Galloul)

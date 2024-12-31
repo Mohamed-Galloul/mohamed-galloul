@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-galloul&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-galloul" /> </p>
 
 
-<p style="margin: 0; padding: 0; text-align: justify;">
+<p style="margin:0; padding:0; width:100%; text-align:justify;">
   Mohamed is a results-focused Data Scientist and Machine Learning Engineer with 
   hands-on experience transforming challenging research concepts into production-ready 
   models. He excels at leveraging advanced AI methods—ranging from speech recognition 
@@ -25,6 +25,7 @@
   leadership skills, and passion for innovation make him a valuable contributor to any 
   data-driven organization.
 </p>
+
 
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-galloul" alt="mohamed-galloul" /></a> </p>
